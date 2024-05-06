@@ -3,6 +3,15 @@
 ## 💻 Description
 PowerPack WebToApp is a WordPress plugin designed to extend the functionality of PowerPack by allowing manipulation of content for display on both web browsers and mobile applications.
 
+## 🛠 How it works
+1. Modify your page with Elementor.
+2. Click on the section you want to display/hide on the web or mobile app.
+3. Go to the Elementor Settings Tab, and select the `PowerPack` option.
+4. In the `PowerPack` sub-menu, enable the Display Conditions
+5. Select Operating System on which you want to handle the section, and select App-WebView, like the image below. 
+![image](https://github.com/iassadki/powerpack-webtoapp/blob/branch/powerpack-elementor.jpg?raw=true)
+
+
 ## 🛠 About the project
 This reposotory is contains hooks to modify OS display options in PowerPack.
 
