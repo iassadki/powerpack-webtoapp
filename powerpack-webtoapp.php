@@ -22,7 +22,7 @@ function powerpack_webtoapp_custom_os_options_filter( $oses ) {
 
 // Filter OS check options for PowerPack
 function powerpack_webtoapp_custom_os_options_check_filter( $oses ) {
-    // Ajoute ton option personnalisée
+    // Add your custom option
     $oses['mobile_app'] = 'App-WebView';
     return $oses;
 }
