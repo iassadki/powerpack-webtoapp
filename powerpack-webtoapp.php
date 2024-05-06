@@ -2,7 +2,7 @@
 /*
 Plugin Name: PowerPack WebToApp
 Version: 1.0
-Description: Extension qui permet de manipuler du contenu en l'affichant sur navigateur ou application mobile
+Description: Extension that allows you to manipulate content by displaying it on a browser or mobile application.
 Author: Ilias Assadki -- PowerPack
 */
  
